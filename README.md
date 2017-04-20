@@ -1,2 +1,2 @@
 # LPTHW
-Exercises of LPTHW book
+My own exercises of LPTHW book
